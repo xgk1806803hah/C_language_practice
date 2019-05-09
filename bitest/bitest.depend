@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552480220 source:f:\opp\bitest\main.c
+	<stdio.h>
+	<stdlib.h>
+
